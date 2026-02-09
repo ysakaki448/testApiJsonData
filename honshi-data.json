@@ -1,15 +1,15 @@
 {
-        "announced": "2026-02-06 10:36:00",
+        "announced": "2026-02-09 10:43:00",
         "ccode": "jbh",
         "data": [
                 {
                         "info_uid": "1000-0000-1000-0006",
-                        "title": "HONSHI-TEST-EX2-1",
+                        "title": "HONSHI-TEST-EX2-2",
                         "url": "https://www.jb-honshi.co.jp/",
-                        "fromDate": "2026-02-04 01:00:00",
+                        "fromDate": "2026-02-04 01:00:0a",
                         "toDate": null,
                         "createdAt": "2026-02-04 01:00:00",
-                        "updatedAt": "2026-02-06 10:36:00"
+                        "updatedAt": "2026-02-09 10:43:00"
                 }
 
         ]
