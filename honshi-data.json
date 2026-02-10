@@ -15,6 +15,7 @@
                         "info_uid": "TEST-2026-0209-0004",
                         "title": "【TEST3】これは試験情報です。[TEST-2026-0209-0002]",
                         "url": "https://www.jb-honshi.co.jp/",
+                        "fromDate": "2026-02-09 12:00:00",
                         "toDate": null,
                         "createdAt": "2026-02-09 12:26:00",
                         "updatedAt": "2026-02-09 12:26:00"
