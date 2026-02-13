@@ -1,0 +1,15 @@
+{
+        "announced": "2026-02-13 13:00:00",
+        "ccode": "jbh",
+        "data": [
+                {
+                        "info_uid": "TEST-2026-0213-0001",
+                        "title": "【TEST1】これは試験情報です",
+                        "url": "https://www.jb-honshi.co.jp/",
+                        "fromDate": "2026-02-13 13:00:00",
+                        "toDate": null,
+                        "createdAt": "2026-02-13 13:00:00",
+                        "updatedAt": "2026-02-13 13:00:00"
+                }
+        ]
+}
