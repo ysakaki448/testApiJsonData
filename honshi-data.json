@@ -1,8 +1,8 @@
 {
         "announced": "2026-02-16 15:15:00",
-        "ccode": "cnx",
-        "data": [
-                {
+        "ccode": "jbh",
+        
+        
                         "info_uid": "TEST-0001",
                         "title": "【TEST0001】これは試験情報です",
                         "url": "https://www.jb-honshi.co.jp/",
@@ -10,6 +10,6 @@
                         "toDate": null,
                         "createdAt": "2026-02-16 09:00:00",
                         "updatedAt": "2026-02-16 09:00:00"
-                }
-        ]
+        
+        
 }
