@@ -7,7 +7,7 @@
                         "title": "【TEST0001】これは試験情報です",
                         "url": "https://www.jb-honshi.co.jp/",
                         "fromDate": "2026-02-16 09:00:00",
-                        "toDate": "2026-02-16 08:00:00",  
+                        "toDate": null,  
 
                         "updatedAt": "2026-02-16 09:00:00"
                 }
