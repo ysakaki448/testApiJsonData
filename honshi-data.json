@@ -4,7 +4,16 @@
         "data": [
                 {
                         "info_uid": "TEST-0001",
-                        "title": "【TEST0001】これは試験情報です",
+                        "title": "【TEST0001】これは試験情報です-1",
+                        "url": "https://www.jb-honshi.co.jp/",
+                        "fromDate": "2026-02-16 09:00:00",
+                        "toDate": null,  
+                        "createdAt": "2026-02-16 09:00:00",
+                        "updatedAt": "2026-02-16 09:00:00"
+                },
+                {
+                        "info_uid": "TEST-0002",
+                        "title": "【TEST0002】これは試験情報です-2",
                         "url": "https://www.jb-honshi.co.jp/",
                         "fromDate": "2026-02-16 09:00:00",
                         "toDate": null,  
