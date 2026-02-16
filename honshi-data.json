@@ -10,6 +10,15 @@
                         "toDate": null,  
                         "createdAt": "2026-02-16 09:00:00",
                         "updatedAt": "2026-02-16 16:58:00"
+                },
+                {
+                        "info_uid": "TEST-0003",
+                        "title": "【TEST0003】これは試験情報です",
+                        "url": "https://www.jb-honshi.co.jp/",
+                        "fromDate": "2026-02-16 09:00:00",
+                        "toDate": null,  
+                        "createdAt": "2026-02-16 09:00:00",
+                        "updatedAt": "2026-02-16 16:58:00"
                 }
         ]
 }
