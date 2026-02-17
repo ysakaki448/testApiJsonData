@@ -10,7 +10,10 @@
                         "toDate": null,
                         "event_area": 64,
                         "importance": 2,
-                        "shares": ["all"],
+                        "shares": [
+                                "cnxkn-szgtk-up",
+				"cnxkn-szgtk-dn",
+                        ],
                         "createdAt": "2026-02-17 11:16:00",
                         "updatedAt": "2026-02-17 11:16:00"
                 }
