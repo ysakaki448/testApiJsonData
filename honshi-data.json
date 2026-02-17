@@ -1,24 +1,24 @@
 {
-        "announced": "2026-02-16 17:17:00",
+        "announced": "2026-02-17 09:35:00",
         "ccode": "jbh",
         "data": [
                 {
                         "info_uid": "TEST-0005",
-                        "title": "【TEST0005】これは試験情報です(2)",
+                        "title": "【TEST0005】これは試験情報です(3)",
                         "url": "https://www.jb-honshi.co.jp/",
                         "fromDate": "2026-02-16 09:00:00",
                         "toDate": null,  
                         "createdAt": "2026-02-16 17:12:00",
-                        "updatedAt": "2026-02-16 17:17:00"
+                        "updatedAt": "2026-02-17 09:35:00"
                 },
                 {
-                        "info_uid": "TEST-0006",
-                        "title": "【TEST0006】これは試験情報です",
+                        "info_uid": "TEST-0007",
+                        "title": "【TEST0007】これは試験情報です",
                         "url": "https://www.jb-honshi.co.jp/",
-                        "fromDate": "2026-02-16 09:00:00",
+                        "fromDate": "2026-02-17 09:00:00",
                         "toDate": null,  
-                        "createdAt": "2026-02-16 17:17:00",
-                        "updatedAt": "2026-02-16 17:17:00"
+                        "createdAt": "2026-02-17 09:35:00",
+                        "updatedAt": "2026-02-16 09:35:00"
                 }
         ]
 }
